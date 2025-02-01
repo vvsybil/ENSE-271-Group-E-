@@ -4,6 +4,7 @@ This is our class project for Ense 271. We are tasked to create a website or pag
 We are group E
 
 Our members are : 
+
 Emma Schoenthal
 
 Sybil Buquia
