@@ -9,6 +9,4 @@
 
 *Sybil Buquia*
 
-*Aubin Chriss Izere*
-
 *Jeremiah Onunkwo*
